@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@prisma/client": "^5.9.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.9.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "prisma-repro",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prisma": "cd test && pnpm prisma"
+  },
+  "devDependencies": {
+    "@nkzw/eslint-config": "^1.13.0",
+    "@types/node": "^20.11.16",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.7.0",
+    "pnpm": ">=7.9.1"
+  }
+}
